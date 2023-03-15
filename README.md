@@ -6,6 +6,6 @@
 - 📷 I like taking photos and traveling.
 
 
-- 📄 Posts:
+* 📄 Posts:
   * [Build a CRUD API with rust](https://medium.com/@victor.teo/build-a-crud-api-with-rust-b71d522c7c87)
   * [Python Web API Development with JSONClasses](https://medium.com/@victor.teo/python-web-api-development-with-jsonclasses-67f618eaedc6)
