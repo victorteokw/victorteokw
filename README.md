@@ -7,6 +7,7 @@
 
 
 * 📄 Posts:
+  * [Write a backend server, and you get an Admin Dashboard for free!](https://medium.com/p/bb2d2aeb041f)
   * [Implement user authentication with Node.js and Teo in 5 lines of code](https://medium.com/@victor.teo/implement-user-authentication-with-node-js-and-teo-in-5-lines-of-code-acedbd2a22d4)
   * [Teo 0.2.9 is published! Flutter client generation!](https://medium.com/@victor.teo/teo-0-2-9-is-published-flutter-client-generation-89c1f238270d)
   * [Write a schema only absolutely no code backend server with Node.js and Teo!](https://medium.com/@victor.teo/write-a-schema-only-absolutely-no-code-backend-server-with-node-js-and-teo-574dde771ecd)
