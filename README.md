@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm Victor Teo, author of [**TEO**](https://github.com/teocloud/teo), founder of [**TEO Cloud**](https://teocloud.io).
+- 👋 Hi there, I'm Victor Teo, author of [**TEO**](https://github.com/teocloud/teo), founder of [**TEO Dev Group**](https://teodev.io).
 - 🔭 I’m currently working on [**TEO**](https://github.com/teocloud/teo), the **schema-centered** next-generation web framework.
 - 🤔 I’m seeking great developers to join my open source team.
 - 💬 Ask me about just anything you like.
